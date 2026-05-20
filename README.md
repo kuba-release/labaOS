@@ -26,11 +26,13 @@
 
 <img width="472" height="274" alt="image" src="https://github.com/user-attachments/assets/c9c53f7a-b921-4ada-927a-4c9fe651abd3" />
 
+<img width="518" height="131" alt="image" src="https://github.com/user-attachments/assets/229a21ba-4f6e-40d7-9f53-4e8f38ea6268" />
+
 ## 4. Усовершенствование программы
 
 ### Добавление параллельного потока 
 
-<img width="518" height="131" alt="image" src="https://github.com/user-attachments/assets/229a21ba-4f6e-40d7-9f53-4e8f38ea6268" />
+
 
 <img width="729" height="858" alt="image" src="https://github.com/user-attachments/assets/a5538a58-dae1-4eaa-8383-03fabc83eb6e" />
 
