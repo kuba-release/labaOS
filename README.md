@@ -44,7 +44,7 @@
 
 ## Лабараторная работа #3
 
-### Вариант 4
+### Вариант 4 A
 
 #### Создали файл скрипт
 
@@ -67,3 +67,18 @@
 
 
 <img width="438" height="109" alt="image" src="https://github.com/user-attachments/assets/ddff7b9a-5e1a-4844-8ba0-b7e94da2233e" />
+
+
+
+#### Вариант 4 Б
+
+<img width="470" height="62" alt="image" src="https://github.com/user-attachments/assets/7429004b-a9ea-45e9-8102-7548d5a40f1d" />
+
+
+<img width="704" height="139" alt="image" src="https://github.com/user-attachments/assets/21fd28b9-ec6f-4229-bdff-a984ae3d8a5b" />
+
+
+<img width="869" height="94" alt="image" src="https://github.com/user-attachments/assets/f4a72d48-39d8-479a-8921-af2c538f40e1" />
+
+
+<img width="531" height="61" alt="image" src="https://github.com/user-attachments/assets/37430557-76f5-4d4a-a482-aeb5a1b1e544" />
