@@ -40,6 +40,9 @@
 
 <img width="430" height="272" alt="image" src="https://github.com/user-attachments/assets/6e662e4c-8817-4a74-b28f-e24312cdba40" />
 
+## Лабораторная работа №2
+
+#### Загрузил видео, видео чуть ускорено
 
 
 ## Лабараторная работа #3
