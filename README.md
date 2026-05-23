@@ -39,3 +39,31 @@
 ### Обновленный Makefile
 
 <img width="430" height="272" alt="image" src="https://github.com/user-attachments/assets/6e662e4c-8817-4a74-b28f-e24312cdba40" />
+
+
+
+## Лабараторная работа #3
+
+### Вариант 4
+
+#### Создали файл скрипт
+
+<img width="356" height="53" alt="image" src="https://github.com/user-attachments/assets/18b6457b-a84d-41df-9b15-00ffab21b23f" />
+
+
+#### Вставили
+
+<img width="1114" height="618" alt="image" src="https://github.com/user-attachments/assets/9bc8bae1-3e3f-4d1b-afab-e6042e307014" />
+
+
+#### Сделал файл исполняемым
+<img width="353" height="30" alt="image" src="https://github.com/user-attachments/assets/35cf44a3-17e4-400a-81f9-97877434fb44" />
+
+
+#### Тест
+
+<img width="577" height="210" alt="image" src="https://github.com/user-attachments/assets/2de317bd-5932-481f-a95a-9b8045f7b192" />
+
+
+
+<img width="438" height="109" alt="image" src="https://github.com/user-attachments/assets/ddff7b9a-5e1a-4844-8ba0-b7e94da2233e" />
